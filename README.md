@@ -6,3 +6,4 @@ Se limpiaron y unificaron los datos para que se puedan utilizar y extraer inform
 
 Principalmente se utlizó la librería de Pandas de Python y el código se encuentra totalmente documentado. 
 
+
